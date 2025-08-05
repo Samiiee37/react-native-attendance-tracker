@@ -17,10 +17,6 @@ A simple offline attendance tracker app built using React Native CLI with AsyncS
 - AsyncStorage
 - Ionicons
 
-## 📲 Screenshots
-
-> Add some screenshots here later
-
 ## 🚀 Run Locally
 
 ```bash
